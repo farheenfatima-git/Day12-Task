@@ -1,0 +1,9 @@
+customer_id,customer,category,amount,type,date
+101,Ali,Groceries,5000,expense,2026-07-05
+102,Ahmed,Transport,8000,expense,2026-07-08
+101,Ali,Transport,3000,expense,2026-07-12
+103,Usman,Food,4500,expense,2026-07-15
+101,Ali,Groceries,4000,expense,2026-08-02
+102,Ahmed,Transport,7000,expense,2026-08-05
+103,Usman,Food,2500,expense,2026-08-07
+101,Ali,Food,3500,expense,2026-08-09
