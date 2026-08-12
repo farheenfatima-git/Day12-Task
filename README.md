@@ -1,4 +1,3 @@
-```markdown
 # Multilingual Financial Query Engine
 
 An AI/ML proof-of-concept for HisabDo that allows users to ask financial questions in English, Urdu, Roman Urdu, and mixed language.
